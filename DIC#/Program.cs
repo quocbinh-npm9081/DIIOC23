@@ -1,4 +1,7 @@
-﻿using System;
+﻿using DIC_.Before.Entity.Batteris;
+using DIC_.Before.Entity.Mobiles;
+using DIC_.Before.Interfaces;
+using System;
 
 namespace DIC_
 {
@@ -6,7 +9,11 @@ namespace DIC_
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            IBattery samsungBattery = new SamSungBattery();
+            MobilePhone SamSung = new SamSung(samsungBattery);
+
+
+            SamSung.TryReplaceBattery();
         }
     }
 }

@@ -1,0 +1,16 @@
+E:\tutorial\c#\DIC#\DIC#\obj\Debug\net5.0\DIC#.csproj.AssemblyReference.cache
+E:\tutorial\c#\DIC#\DIC#\obj\Debug\net5.0\DIC#.GeneratedMSBuildEditorConfig.editorconfig
+E:\tutorial\c#\DIC#\DIC#\obj\Debug\net5.0\DIC#.AssemblyInfoInputs.cache
+E:\tutorial\c#\DIC#\DIC#\obj\Debug\net5.0\DIC#.AssemblyInfo.cs
+E:\tutorial\c#\DIC#\DIC#\obj\Debug\net5.0\DIC#.csproj.CoreCompileInputs.cache
+E:\tutorial\c#\DIC#\DIC#\bin\Debug\net5.0\DIC#.exe
+E:\tutorial\c#\DIC#\DIC#\bin\Debug\net5.0\DIC#.deps.json
+E:\tutorial\c#\DIC#\DIC#\bin\Debug\net5.0\DIC#.runtimeconfig.json
+E:\tutorial\c#\DIC#\DIC#\bin\Debug\net5.0\DIC#.runtimeconfig.dev.json
+E:\tutorial\c#\DIC#\DIC#\bin\Debug\net5.0\DIC#.dll
+E:\tutorial\c#\DIC#\DIC#\bin\Debug\net5.0\DIC#.pdb
+E:\tutorial\c#\DIC#\DIC#\obj\Debug\net5.0\DIC#.dll
+E:\tutorial\c#\DIC#\DIC#\obj\Debug\net5.0\refint\DIC#.dll
+E:\tutorial\c#\DIC#\DIC#\obj\Debug\net5.0\DIC#.pdb
+E:\tutorial\c#\DIC#\DIC#\obj\Debug\net5.0\DIC#.genruntimeconfig.cache
+E:\tutorial\c#\DIC#\DIC#\obj\Debug\net5.0\ref\DIC#.dll

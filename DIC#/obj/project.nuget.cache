@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Ln71tPVNr52uDP0NvM15xDkCSVSJjhd4JBukN0HIYMaE7w22kpz9wClRwb35htrKgbSQq31nfHsKAiToi9gZQA==",
+  "dgSpecHash": "kxy76mbvBSa+MaPY6OKl0yAhLP6O5MY7wu3Fwq7K2ZW//aUt7qN8kHBRg2R+bOHjjIiNUQ+NX6b2SoPKjrXzeQ==",
   "success": true,
   "projectFilePath": "E:\\tutorial\\c#\\DIC#\\DIC#\\DIC#.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
